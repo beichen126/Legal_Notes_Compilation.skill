@@ -1,0 +1,1 @@
+适配OpenClaw的法学教材自动化笔记整理skill
